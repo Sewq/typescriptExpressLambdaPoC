@@ -1,6 +1,7 @@
 Example project cnofig for deploying a serverless application with Typescript and express server
 
 In order to deploy to AWS:
+run npm install
 
 Set credentials to AWS user with aws-cli:
 -aws configure
