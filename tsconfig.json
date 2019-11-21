@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "lib": ["es2015"],
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "target": "es2017",
+    "module": "commonjs",
+    "outDir": "./dist",
+    "strict": true,
+    "baseUrl": "./",
+    "typeRoots": [
+      "node_modules/@types"
+    ],
+    "types": [
+      "node",
+      "reflect-metadata"
+    ],
+    "esModuleInterop": true,
+    "inlineSourceMap": true
+  }
+}
