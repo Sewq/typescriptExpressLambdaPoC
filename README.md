@@ -1,4 +1,4 @@
-Example project cnofig for deploying a serverless application with Typescript and express server
+Example project config for deploying a serverless application with Typescript and express server
 
 In order to deploy to AWS:
 run npm install
