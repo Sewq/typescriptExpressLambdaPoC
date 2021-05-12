@@ -9,7 +9,7 @@
   "license": "ISC",
   "dependencies": {
     "@tsed/common": "^5.34.5",
-    "@tsed/core": "^5.34.5",
+    "@tsed/core": "^5.65.7",
     "@types/node": "^12.12.9",
     "body-parser": "latest",
     "class-transformer": "^0.2.3",
