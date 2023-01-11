@@ -13,7 +13,7 @@
     "@types/node": "^12.12.9",
     "body-parser": "latest",
     "class-transformer": "^0.2.3",
-    "class-validator": "^0.11.0",
+    "class-validator": "^0.14.0",
     "express": "latest",
     "reflect-metadata": "^0.1.13",
     "routing-controllers": "^0.8.0",
